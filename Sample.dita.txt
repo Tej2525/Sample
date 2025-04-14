@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "urn:abs:rgn:dita:lca:doctype:RGNConcept" "dita-abs/dtd/RGNConcept.dtd">
+<concept id="GUID-99b070d9-6bcb-4871-9a63-678108e3642f-en">
+<title>title test from github</title>
+<conbody>
+<section>
+<title></title>
+<p>test file add line with edit</p>
+</section>
+</conbody>
+</concept>
